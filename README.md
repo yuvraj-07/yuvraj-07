@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yuvraj-07" alt="yuvraj-07" /></a> </p>
 
-- 🌱 I’m currently learning **Javascript, Python, Css**
+- 🌱 I’m currently learning **C, C++**
 
 - 👨‍💻 All of my projects are available at [https://replit.com/@YuvrajSingh133](https://replit.com/@YuvrajSingh133)
 
