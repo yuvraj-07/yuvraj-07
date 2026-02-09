@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning: JAVA, web development<br><br>👨‍💻 All of my projects are available at: https://replit.com/@YuvrajSingh133<br><br>💬 Ask me about:  Python, C, C++, web technologies<br><br>📫 How to reach me: ys543958@gmail.com<br><br>⚡ Fun fact: I think i'm curious
+🌱 I’m currently learning: JAVA, Mern Stack, Web Technologies etc<br><br>💬 Ask me about:  Python, C, Web Technologies, Java, Cybersecurity, System Design<br><br>📫 How to reach me: ys543958@gmail.com<br><br>⚡ Fun fact: I think i'm curious
 
 
 ## 🌐 Socials:
